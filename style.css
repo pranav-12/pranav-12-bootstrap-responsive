@@ -1,0 +1,41 @@
+.nav-br{
+    text-decoration: none;
+    padding-left: 8rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    
+}
+.head-sec{
+    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url('https://startbootstrap.github.io/startbootstrap-creative/assets/img/bg-masthead.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+hr.divider{
+    width: 3.25rem;
+    margin: 1.25rem auto;
+    opacity: 1; 
+}
+.btn.btn-primary{
+    background-color: #f4623a;
+    border: none;
+    border-radius: 10rem;
+    padding: 1.25rem 2.25rem;
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+.btn.btn-primary:hover {
+    color: #fff;
+    background-color: #cf5331;
+    border-color: #c34e2e;
+}
+.portfolio-box:hover{
+    background-color: #f4623a;
+}
+.fields{
+    height: 3.5rem;
+    border-radius: 6px;
+    
+    
+}
